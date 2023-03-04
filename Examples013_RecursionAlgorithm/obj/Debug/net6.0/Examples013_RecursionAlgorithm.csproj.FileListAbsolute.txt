@@ -1,0 +1,15 @@
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\bin\Debug\net6.0\Examples013_RecursionAlgorithm.exe
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\bin\Debug\net6.0\Examples013_RecursionAlgorithm.deps.json
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\bin\Debug\net6.0\Examples013_RecursionAlgorithm.runtimeconfig.json
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\bin\Debug\net6.0\Examples013_RecursionAlgorithm.dll
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\bin\Debug\net6.0\Examples013_RecursionAlgorithm.pdb
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.AssemblyInfo.cs
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.dll
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\refint\Examples013_RecursionAlgorithm.dll
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.pdb
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\Examples013_RecursionAlgorithm.genruntimeconfig.cache
+C:\Users\Шанёк\Desktop\GB Practicum\Examples_v2\Examples013_RecursionAlgorithm\obj\Debug\net6.0\ref\Examples013_RecursionAlgorithm.dll
